@@ -1,0 +1,17 @@
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/.env*
+
+# Java
+**/target/
+**/*.log
+**/.idea/
+**/.classpath
+**/.project
+**/.settings/
+
+# System
+.DS_Store
+*.iml
+.env
